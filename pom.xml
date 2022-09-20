@@ -17,5 +17,6 @@
 
     <modules>
         <module>flowchart</module>
+        <module>receptionflow</module>
     </modules>
 </project>
