@@ -25,5 +25,6 @@
         <module>flowchart</module>
         <module>receptionflow</module>
         <module>member</module>
+        <module>java</module>
     </modules>
 </project>
